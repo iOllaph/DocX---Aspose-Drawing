@@ -21,7 +21,7 @@ using System.Linq;
 using System.Xml.Linq;
 using System.Text.RegularExpressions;
 using System.IO.Packaging;
-using System.Drawing;
+using Aspose.Drawing;
 using System.Globalization;
 using System.Diagnostics;
 using System.IO;
@@ -3545,7 +3545,7 @@ namespace Xceed.Document.NET
 
       using( PackagePartStream packagePartStream = new PackagePartStream( part.GetStream() ) )
       {
-        using( System.Drawing.Image img = System.Drawing.Image.FromStream( packagePartStream, useEmbeddedColorManagement: false, validateImageData: false ) )
+        using( Aspose.Drawing.Image img = Aspose.Drawing.Image.FromStream( packagePartStream, useEmbeddedColorManagement: false ) )
         {
           // ooxml uses image size in EMU : 
           // image in inches(in) is : pt / 72

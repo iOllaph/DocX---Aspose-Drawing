@@ -17,7 +17,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Drawing;
+using Aspose.Drawing;
 using System.Globalization;
 using System.IO.Packaging;
 using System.Linq;

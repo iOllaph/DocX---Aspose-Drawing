@@ -1,0 +1,11 @@
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Document.NET\obj\net5.0\Debug\net5.0\Xceed.Document.NET5.csproj.AssemblyReference.cache
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Document.NET\obj\net5.0\Debug\net5.0\Xceed.Document.NET5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Document.NET\obj\net5.0\Debug\net5.0\Xceed.Document.NET5.csproj.CoreCompileInputs.cache
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Document.NET\obj\net5.0\Debug\net5.0\Xceed.Document.NET5.sourcelink.json
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Document.NET\bin\Debug\net5.0\Xceed.Document.NET.deps.json
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Document.NET\bin\Debug\net5.0\Xceed.Document.NET.dll
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Document.NET\bin\Debug\net5.0\Xceed.Document.NET.pdb
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Document.NET\obj\net5.0\Debug\net5.0\Xceed.Document.NET.dll
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Document.NET\obj\net5.0\Debug\net5.0\refint\Xceed.Document.NET.dll
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Document.NET\obj\net5.0\Debug\net5.0\Xceed.Document.NET.pdb
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Document.NET\obj\net5.0\Debug\net5.0\ref\Xceed.Document.NET.dll

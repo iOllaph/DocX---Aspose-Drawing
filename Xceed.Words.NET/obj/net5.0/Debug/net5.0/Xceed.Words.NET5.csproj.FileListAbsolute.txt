@@ -1,0 +1,14 @@
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\bin\Debug\net5.0\Xceed.Words.NET.deps.json
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\bin\Debug\net5.0\Xceed.Words.NET.dll
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\bin\Debug\net5.0\Xceed.Words.NET.pdb
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\bin\Debug\net5.0\Xceed.Document.NET.dll
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\bin\Debug\net5.0\Xceed.Document.NET.pdb
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\obj\net5.0\Debug\net5.0\Xceed.Words.NET5.csproj.AssemblyReference.cache
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\obj\net5.0\Debug\net5.0\Xceed.Words.NET5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\obj\net5.0\Debug\net5.0\Xceed.Words.NET5.csproj.CoreCompileInputs.cache
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\obj\net5.0\Debug\net5.0\Xceed.Words.NET5.sourcelink.json
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\obj\net5.0\Debug\net5.0\Xceed.Wo.BEF558F2.Up2Date
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\obj\net5.0\Debug\net5.0\Xceed.Words.NET.dll
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\obj\net5.0\Debug\net5.0\refint\Xceed.Words.NET.dll
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\obj\net5.0\Debug\net5.0\Xceed.Words.NET.pdb
+C:\Users\pabll\Documents\Personal\DocX---Aspose-Drawing\Xceed.Words.NET\obj\net5.0\Debug\net5.0\ref\Xceed.Words.NET.dll

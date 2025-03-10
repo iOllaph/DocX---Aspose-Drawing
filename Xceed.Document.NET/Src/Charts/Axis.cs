@@ -16,7 +16,7 @@
 
 using System;
 using System.ComponentModel;
-using System.Drawing;
+using Aspose.Drawing;
 using System.Globalization;
 using System.Linq;
 using System.Xml;

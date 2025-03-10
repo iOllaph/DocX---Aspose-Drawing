@@ -26,7 +26,7 @@ is only intended as a supplement to the documentation, and is provided
 "as is", without warranty of any kind, either expressed or implied.
 *************************************************************************************/
 using System;
-using System.Drawing;
+using Aspose.Drawing;
 using System.IO;
 using Xceed.Document.NET;
 

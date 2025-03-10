@@ -27,8 +27,8 @@ is only intended as a supplement to the documentation, and is provided
 *************************************************************************************/
 
 using System;
-using System.Drawing;
-using System.Drawing.Drawing2D;
+using Aspose.Drawing;
+using Aspose.Drawing.Drawing2D;
 using System.IO;
 using Xceed.Document.NET;
 using System.Linq;

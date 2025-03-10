@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pabll\\Documents\\Personal\\DocX---Aspose-Drawing\\Xceed.Document.NET\\Xceed.Document.NET5.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pabll\\Documents\\Personal\\DocX---Aspose-Drawing\\Xceed.Document.NET\\Xceed.Document.NET5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pabll\\Documents\\Personal\\DocX---Aspose-Drawing\\Xceed.Document.NET\\Xceed.Document.NET5.csproj",
+        "projectName": "Xceed.Document.NET",
+        "projectPath": "C:\\Users\\pabll\\Documents\\Personal\\DocX---Aspose-Drawing\\Xceed.Document.NET\\Xceed.Document.NET5.csproj",
+        "packagesPath": "C:\\Users\\pabll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pabll\\Documents\\Personal\\DocX---Aspose-Drawing\\Xceed.Document.NET\\obj\\net5.0\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pabll\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Aspose.Drawing.Common": {
+              "target": "Package",
+              "version": "[22.9.0, )"
+            },
+            "System.IO.Packaging": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -29,7 +29,7 @@ is only intended as a supplement to the documentation, and is provided
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.Drawing;
+using Aspose.Drawing;
 using System.IO;
 using System.Linq;
 using Xceed.Document.NET;

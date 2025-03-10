@@ -20,7 +20,7 @@ using System.Xml.Linq;
 using System.IO.Packaging;
 using System.Diagnostics;
 using System;
-using System.Drawing;
+using Aspose.Drawing;
 using System.Globalization;
 using System.IO;
 

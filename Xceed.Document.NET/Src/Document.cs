@@ -24,11 +24,11 @@ using System.IO;
 using System.Text.RegularExpressions;
 using System.IO.Packaging;
 using System.Security.Cryptography;
-using System.Drawing;
+using Aspose.Drawing;
 using System.Collections.ObjectModel;
 using System.Net;
 using System.Diagnostics;
-using System.Drawing.Drawing2D;
+using Aspose.Drawing.Drawing2D;
 using System.Reflection;
 using System.ComponentModel;
 

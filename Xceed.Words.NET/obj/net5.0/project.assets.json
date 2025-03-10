@@ -1,0 +1,185 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Aspose.Drawing.Common/22.9.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Aspose.Drawing.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Aspose.Drawing.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.IO.Packaging/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.IO.Packaging.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Packaging.dll": {}
+        }
+      },
+      "Xceed.Document.NET/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Aspose.Drawing.Common": "22.9.0",
+          "System.IO.Packaging": "4.5.0"
+        },
+        "compile": {
+          "bin/placeholder/Xceed.Document.NET.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Xceed.Document.NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aspose.Drawing.Common/22.9.0": {
+      "sha512": "xi1BiETuDkXDyoS4eg5j8IuiRIeBKOhxbYz9KxPb0kunub2fLOVJ2mhNMgwNtDqk7zoU6fj1tHPUrQuWBUNbIA==",
+      "type": "package",
+      "path": "aspose.drawing.common/22.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Aspose.Drawing for .NET.Agreements.pdf",
+        "License.txt",
+        "aspose.drawing.common.22.9.0.nupkg.sha512",
+        "aspose.drawing.common.nuspec",
+        "icon.png",
+        "lib/net20/Aspose.Drawing.dll",
+        "lib/net20/Aspose.Drawing.xml",
+        "lib/netstandard2.0/Aspose.Drawing.dll",
+        "lib/netstandard2.0/Aspose.Drawing.xml"
+      ]
+    },
+    "System.IO.Packaging/4.5.0": {
+      "sha512": "OjtW5pGp1E7KE3ontBrzy+nSFJCM6pcbVDdo3gg4DauTfdtZKdeKvMVlADF4fSY+OfXWUp4qCvOSxIltt37LbA==",
+      "type": "package",
+      "path": "system.io.packaging/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net46/System.IO.Packaging.dll",
+        "lib/netstandard1.3/System.IO.Packaging.dll",
+        "lib/netstandard2.0/System.IO.Packaging.dll",
+        "ref/net46/System.IO.Packaging.dll",
+        "ref/net46/System.IO.Packaging.xml",
+        "ref/netstandard1.3/System.IO.Packaging.dll",
+        "ref/netstandard1.3/System.IO.Packaging.xml",
+        "ref/netstandard2.0/System.IO.Packaging.dll",
+        "ref/netstandard2.0/System.IO.Packaging.xml",
+        "system.io.packaging.4.5.0.nupkg.sha512",
+        "system.io.packaging.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Xceed.Document.NET/1.0.0": {
+      "type": "project",
+      "path": "../Xceed.Document.NET/Xceed.Document.NET5.csproj",
+      "msbuildProject": "../Xceed.Document.NET/Xceed.Document.NET5.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Aspose.Drawing.Common >= 22.9.0",
+      "Xceed.Document.NET >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pabll\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\pabll\\Documents\\Personal\\DocX---Aspose-Drawing\\Xceed.Words.NET\\Xceed.Words.NET5.csproj",
+      "projectName": "Xceed.Words.NET",
+      "projectPath": "C:\\Users\\pabll\\Documents\\Personal\\DocX---Aspose-Drawing\\Xceed.Words.NET\\Xceed.Words.NET5.csproj",
+      "packagesPath": "C:\\Users\\pabll\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pabll\\Documents\\Personal\\DocX---Aspose-Drawing\\Xceed.Words.NET\\obj\\net5.0\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pabll\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\pabll\\Documents\\Personal\\DocX---Aspose-Drawing\\Xceed.Document.NET\\Xceed.Document.NET5.csproj": {
+              "projectPath": "C:\\Users\\pabll\\Documents\\Personal\\DocX---Aspose-Drawing\\Xceed.Document.NET\\Xceed.Document.NET5.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Aspose.Drawing.Common": {
+            "target": "Package",
+            "version": "[22.9.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

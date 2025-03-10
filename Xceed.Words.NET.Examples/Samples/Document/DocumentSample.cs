@@ -82,7 +82,7 @@ namespace Xceed.Words.NET.Examples
             FindPattern = "<(.*?)>",
             RegexMatchHandler = DocumentSample.ReplaceFunc,
             RegExOptions = RegexOptions.IgnoreCase,
-            NewFormatting = new Formatting() { Bold = true, FontColor = System.Drawing.Color.Green }
+            NewFormatting = new Formatting() { Bold = true, FontColor = Aspose.Drawing.Color.Green }
           };
           document.ReplaceText( replaceTextOptions );
 

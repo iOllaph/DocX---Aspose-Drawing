@@ -15,7 +15,7 @@
 
 
 using System.ComponentModel;
-using System.Drawing;
+using Aspose.Drawing;
 
 namespace Xceed.Document.NET
 {

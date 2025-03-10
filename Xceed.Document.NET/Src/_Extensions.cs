@@ -16,7 +16,7 @@
 
 using System.Collections.Generic;
 using System.Linq;
-using System.Drawing;
+using Aspose.Drawing;
 using System.Xml.Linq;
 
 namespace Xceed.Document.NET

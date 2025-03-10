@@ -28,7 +28,7 @@ is only intended as a supplement to the documentation, and is provided
 using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Drawing;
+using Aspose.Drawing;
 using System.Globalization;
 using System.IO;
 using System.Linq;

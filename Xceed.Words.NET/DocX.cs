@@ -23,8 +23,8 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Security.Cryptography.Xml;
 using Microsoft.Win32;
-using System.Drawing;
-using System.Drawing.Imaging;
+using Aspose.Drawing;
+using Aspose.Drawing.Imaging;
 using System.Xml;
 #endif
 using System.Xml.Linq;

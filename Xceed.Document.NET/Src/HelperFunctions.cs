@@ -25,8 +25,8 @@ using System.Reflection;
 using System.IO.Compression;
 using System.Globalization;
 using System.Diagnostics;
-using System.Drawing;
-using System.Drawing.Drawing2D;
+using Aspose.Drawing;
+using Aspose.Drawing.Drawing2D;
 
 namespace Xceed.Document.NET
 {

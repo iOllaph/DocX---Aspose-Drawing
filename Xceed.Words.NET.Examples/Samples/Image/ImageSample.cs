@@ -28,8 +28,8 @@ is only intended as a supplement to the documentation, and is provided
 
 using System;
 using System.Collections.Generic;
-using System.Drawing;
-using System.Drawing.Imaging;
+using Aspose.Drawing;
+using Aspose.Drawing.Imaging;
 using System.IO;
 using System.Linq;
 using Xceed.Document.NET;
@@ -177,7 +177,7 @@ namespace Xceed.Words.NET.Examples
           if( graphic != null )
           {
             // Draw a string with a specific font, font size and color at (0,10) from top left of the image.
-            graphic.DrawString( "@copyright", new System.Drawing.Font( "Arial Bold", 12 ), Brushes.Red, new PointF( 0f, 10f ) );
+            graphic.DrawString( "@copyright", new Aspose.Drawing.Font( "Arial Bold", 12 ), Brushes.Red, new PointF( 0f, 10f ) );
             // Draw a blue circle of 10x10 at (30, 5) from the top left of the image.
             graphic.FillEllipse( Brushes.Blue, 30, 5, 10, 10 );
 
