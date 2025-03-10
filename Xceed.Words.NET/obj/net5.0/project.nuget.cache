@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fPud2RdARhg=",
+  "dgSpecHash": "MJWq/kKefjY=",
   "success": true,
   "projectFilePath": "C:\\Users\\pabll\\Documents\\Personal\\DocX---Aspose-Drawing\\Xceed.Words.NET\\Xceed.Words.NET5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pabll\\.nuget\\packages\\aspose.drawing.common\\22.9.0\\aspose.drawing.common.22.9.0.nupkg.sha512",
     "C:\\Users\\pabll\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512",
+    "C:\\Users\\pabll\\.nuget\\packages\\docx-document-aspase\\1.0.0\\docx-document-aspase.1.0.0.nupkg.sha512",
     "C:\\Users\\pabll\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\pabll\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\pabll\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"

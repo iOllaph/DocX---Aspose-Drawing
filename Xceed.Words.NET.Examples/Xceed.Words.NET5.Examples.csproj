@@ -113,7 +113,7 @@
     <None Remove="Samples\Pdf\Resources\zz.docx" />
   </ItemGroup>
   <ItemGroup>
-      <PackageReference Include="Aspose.Drawing.Common" Version="22.9.0" />
+    <PackageReference Include="Aspose.Drawing.Common" Version="22.9.0" />
     <PackageReference Include="System.IO.Packaging" Version="4.5.0" />
   </ItemGroup>
   <ItemGroup>
